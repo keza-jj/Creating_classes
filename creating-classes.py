@@ -47,3 +47,6 @@ cube = Cube(4)
 print(cube.surface_area())
 print(cube.volume())
 print(cube.diagonal())
+
+
+classes are very simple. don't think??
